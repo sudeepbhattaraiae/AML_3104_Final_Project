@@ -97,7 +97,7 @@ Ensure you have the following installed:
 ### **Setup Instructions**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/pSaurav10/amlfinal.git
+   git clone https://github.com/sudeepbhattaraiae/AML_3104_Final_Project.git
    cd plant-disease-detection
 
 ## **Installation**
